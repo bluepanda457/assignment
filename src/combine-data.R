@@ -1,5 +1,3 @@
-setwd()
-
 melb_df <- read.table(
   file = "data/melbourne.csv",
   header = TRUE,
