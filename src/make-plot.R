@@ -1,7 +1,5 @@
 library(ggplot2)
 
-setwd("~/OneDrive/Documents/_Year 3/Computing/MT 2 Version control/assignment")
-
 plot_df <- read.csv("out/average-rainfall.csv")
 
 g <- ggplot(
