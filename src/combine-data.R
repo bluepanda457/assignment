@@ -1,4 +1,4 @@
-setwd("~/OneDrive/Documents/_Year 3/Computing/MT 2 Version control/assignment")
+setwd()
 
 melb_df <- read.table(
   file = "data/melbourne.csv",
