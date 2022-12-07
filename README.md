@@ -12,4 +12,4 @@ Then run the make-plot.R script using the following command:
 Rscript src/make-plot.R
 ```
 
-The input data is in `data` and the results are in `out`.
+The input data is in `data` and the results of both scripts are in `out`.
